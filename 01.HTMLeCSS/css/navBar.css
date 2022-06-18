@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #667085;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navBar {
+    padding: 18px 112px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navBar-logo,
+.navBar-link,
+.navBar-botoes,
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #3A404E;
+    text-decoration: none;
+}
+
+.navBar-item {
+    margin: 0 16px;
+}
+
+.logo-principal {
+    margin-right: 8px;
+}
+
+.cadastro {
+    background: #8E2424;
+    border: none;
+    width: 112px;
+    height: 44px;
+    color: #ffffff;
+    border-radius: 8px;
+    cursor: pointer;
+}
