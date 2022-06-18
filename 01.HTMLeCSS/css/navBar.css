@@ -1,12 +1,12 @@
 * {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    font-weight: 500;
     font-size: 16px;
-    color: #667085;
 }
 
 a {
+    font-weight: 500;
+    color: #667085;
     text-decoration: none;
 }
 

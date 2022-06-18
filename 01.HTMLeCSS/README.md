@@ -12,3 +12,10 @@ Escopo do projeto: uma empresa de TI quer desenvolver uma página destinada a no
 Desenvolver o **cabeçalho da aplicação**, chamado normalmente de Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito, como na imagem abaixo:
 
 ![img](/01.HTMLeCSS/img/navBar.png);
+
+
+### Day 2: :star:
+
+O desafio de hoje é desenvolver a **primeira seção da página**, que também pode ser chamada de "cabeçalho":
+
+![img](/01.HTMLeCSS/img/cabecalho.png);
