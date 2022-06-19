@@ -1,0 +1,32 @@
+.metricas-container {
+  display: flex;
+  justify-content: center;
+}
+
+.metricas {
+    max-width: 280px;
+    margin: 0 16px;
+}
+
+.metricas-titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: #8E2424;
+    line-height: 72px;
+}
+
+.item-metrica {
+    font-size: 18px;
+    font-weight: 500;
+    color: #101828;
+    padding: 12px 0 8px 0;
+    line-height: 28px;
+
+}
+
+.text-metrica {
+    font-size: 16px;
+    font-weight: 400;
+    color: #667085;
+    line-height: 24px;
+}

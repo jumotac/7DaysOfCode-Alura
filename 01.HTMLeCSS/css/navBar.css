@@ -10,7 +10,7 @@ a {
     text-decoration: none;
 }
 
-.navBar {
+.navBar-container {
     padding: 18px 112px;
     display: flex;
     justify-content: space-between;
