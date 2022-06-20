@@ -10,14 +10,12 @@ Escopo do projeto: uma empresa de TI quer desenvolver uma página destinada a no
 
 
 ### Day 1: :star:
-
 Desenvolver o **cabeçalho da aplicação**, chamado normalmente de Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito, como na imagem abaixo:
 
 ![img](/01.HTMLeCSS/img/navBar.png)
 
 
 ### Day 2: :star:
-
 O desafio de hoje é desenvolver a **primeira seção da página**, que também pode ser chamada de "cabeçalho":
 
 ![img](/01.HTMLeCSS/img/cabecalho.png)
@@ -29,3 +27,9 @@ Continuando, hoje vou desenvolver uma parte bem legal e desafiadora: a **seção
 Foi solicitado a inclusão de 4 métricas diferentes, com um título, um subtítulo e um texto:
 
 ![img](/01.HTMLeCSS/img/metricas.png)
+
+
+### Day 4: :star:
+Hoje finalizei a seção de **"Estamos procurando por talentos"**, mas sem a parte de divulgação de vagas ainda, apenas até a imagem!
+
+![img](/01.HTMLeCSS/img/procurando-talentos.png)

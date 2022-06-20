@@ -1,11 +1,11 @@
 .metricas-container {
   display: flex;
   justify-content: center;
+  padding: 0 96px 96px;
 }
 
 .metricas {
-    max-width: 280px;
-    margin: 0 16px;
+    padding: 0 16px;
 }
 
 .metricas-titulo {

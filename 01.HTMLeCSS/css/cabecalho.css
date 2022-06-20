@@ -4,23 +4,23 @@
     
 }
 
-.cabecalho-text {
+.cabecalho {
     margin: 24px;
     line-height: 1.5;
 }
 
-h1 {
+.text-1 {
+    color: #8E2424
+}
+
+.text-2 {
     font-size: 48px;
     font-weight: 600;
     color: #101828;
 }
 
-h2 {
+.text-3{
     font-size: 20px;
     font-weight: 400;
     color: #667085;
-}
-
-h3 {
-    color: #8E2424
 }
