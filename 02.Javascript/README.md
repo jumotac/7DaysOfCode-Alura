@@ -16,3 +16,8 @@ Sendo assim, a tarefa de hoje foi reescrever o código abaixo de maneira que ele
 - let stringTrinta = '30'
 - let numeroDez = 10
 - let stringDez = '10'
+
+
+### Day 2: :star:
+Hoje aprendi a trabalhar com captura de **inputs** e como armazenar essas informações em variáveis para usá-las durante a execução do programa.
+
