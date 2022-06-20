@@ -1,0 +1,37 @@
+.vaga-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 112px;
+    margin: 0 auto;
+}
+
+.vaga {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+    width: 80%;
+    margin-bottom: 24px;
+}
+
+.area-vaga {
+    margin-bottom: 32px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #101828;
+}
+
+.titulo-vaga {
+    font-size: 18px;
+    font-weight: 500;
+    color: #101828;
+}
+
+
+.informacoes {
+    margin-top: 32px;
+    font-weight: 500;
+    color: #667085;
+    font-size: 16px;
+}

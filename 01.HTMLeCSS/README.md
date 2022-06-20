@@ -33,3 +33,8 @@ Foi solicitado a inclusão de 4 métricas diferentes, com um título, um subtít
 Hoje finalizei a seção de **"Estamos procurando por talentos"**, mas sem a parte de divulgação de vagas ainda, apenas até a imagem!
 
 ![img](/01.HTMLeCSS/img/procurando-talentos.png)
+
+### Day 5: star:
+Dando continuidade, acabei de desenvolver a parte talvez mais importante do projeto inteiro, **a seção de vagas!**
+
+![img](/01.HTMLeCSS/img/secao-vagas.png)
