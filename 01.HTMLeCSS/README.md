@@ -34,7 +34,7 @@ Hoje finalizei a seção de **"Estamos procurando por talentos"**, mas sem a par
 
 ![img](/01.HTMLeCSS/img/procurando-talentos.png)
 
-### Day 5: star:
+### Day 5: :star:
 Dando continuidade, acabei de desenvolver a parte talvez mais importante do projeto inteiro, **a seção de vagas!**
 
 ![img](/01.HTMLeCSS/img/secao-vagas.png)
