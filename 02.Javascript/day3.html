@@ -1,0 +1,33 @@
+<script>
+
+    var perguntaArea = prompt('Você quer seguir em qual área: digite o número 1 para Front-End ou 2 para Back-End?')
+
+    if (perguntaArea == 1) {
+        alert(`Bem-vindo ao Front-End!`)
+        var perguntaFront = prompt (`E o que você quer aprender: React ou Vue?`)
+        alert(`Parabéns, continue estudando ${perguntaFront} para se aperfeiçoar cada vez mais e aprender novas linguagens.`)
+    } else {
+        alert(`Bem-vindo ao Back-End!`) 
+        var perguntaBack = prompt (`E o que você quer aprender: C# ou Java?`)
+        alert(`Parabéns, continue estudando ${perguntaBack} para se aperfeiçoar cada vez mais e aprender novas linguagens.`)
+    }
+
+    var perguntaEspecializacao = prompt('Você quer seguir se especializando na área escolhida, digite o número 1 ou aperte 2 caso queira se desenvolver para tornar-se um Fullstack?')
+
+    if (perguntaEspecializacao == 1) {
+        alert(`Continue se especializando para dominar a área escolhida!`)
+    } else {
+        alert(`Caso queira se tornar um Fullstack precisa aprendar outras linguagens.`)
+    }
+
+    var novasLinguagens = prompt("Digite 'ok' se quer aprender mais alguma tecnologia")
+
+    while (novasLinguagens === 'ok') {
+        var tecnologia = prompt('Qual vc quer aprender?');
+        alert(`${tecnologia} é muito interessante!`)
+        novasLinguagens = prompt("Digite 'ok' se quer aprender mais alguma tecnologia")
+    }
+
+
+
+</script>

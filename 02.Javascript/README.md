@@ -21,3 +21,10 @@ Sendo assim, a tarefa de hoje foi reescrever o código abaixo de maneira que ele
 ### Day 2: :star:
 Hoje aprendi a trabalhar com captura de **inputs** e como armazenar essas informações em variáveis para usá-las durante a execução do programa.
 
+
+### Day 3: :star:
+Dia de criar uma narrativa dinâmica (estruturas de controle de fluxo - adaptar às respostas dadas por quem está jogando). E para que essa história só acabe quando a pessoa que a estiver lendo quiser, foi preciso adicionar **loops** para fazer uma tarefa repetidas vezes!
+Para isso, foi necessário algumas estruturas capazes de alterar o fluxo da aplicação, como: **while, if e else**. Todas essas conseguem cumprir esse objetivo, dada uma certa condição.
+
+ - O **if** e o **else** -  são capazes de criar ramificações dentro da aplicação para que seja tomada uma ou outra ação, dependendo da condição fornecida.
+ - Os loops (como **for** e **while**) são capazes de fazer uma tarefa repetitiva se transformar em poucas linhas de código, independente de quantas vezes precisar repetir aquela tarefa.
