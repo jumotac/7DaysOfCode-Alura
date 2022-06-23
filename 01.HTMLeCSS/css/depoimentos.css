@@ -1,0 +1,35 @@
+.depoimento-container {
+    margin: 96px 112px;
+    padding: 64px;
+    background: rgba(196, 25, 25, 0.03);;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.depoimento-titulo {
+    font-size: 14px;
+    color: #8E2424;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.depoimento-texto {
+    font-size: 36px;
+    color: #101828;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+
+.depoimento-nome {
+    margin-top: 16px;
+    font-size: 16px;
+    color: #101828;
+}
+
+.depoimento-profissao {
+    font-size: 14px;
+    color: #667085;
+    margin-top: 4px;
+    font-weight: 400;
+
+}
