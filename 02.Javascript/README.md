@@ -33,4 +33,6 @@ Para isso, foi necessário algumas estruturas capazes de alterar o fluxo da apli
  Ainda sobre o tema de jogos e narrativas, hoje o desafio foi criar um programa para jogar contra o computador. Hoje aprendi a trabalhar com aleatoriedade para criar um jogo.
  Utilizei a **estrutura de repetição WHILE** para que o programa seja executado até o momento em que as 3 tentativas acabem, ou até a pessoa acertar o número.
 
-
+### Day 5 :star: 
+Listas estão em todos os lugares e nos ajudam muito a trabalhar um grande volume de informação. É muito importante que saibamos trabalhar com **arrays**.
+Hoje eu criei uma lista de compras incluindo os produtos e separei por categoria. 
