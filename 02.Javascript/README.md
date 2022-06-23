@@ -28,3 +28,9 @@ Para isso, foi necessário algumas estruturas capazes de alterar o fluxo da apli
 
  - O **if** e o **else** -  são capazes de criar ramificações dentro da aplicação para que seja tomada uma ou outra ação, dependendo da condição fornecida.
  - Os loops (como **for** e **while**) são capazes de fazer uma tarefa repetitiva se transformar em poucas linhas de código, independente de quantas vezes precisar repetir aquela tarefa.
+
+ ### Day 4 :star:
+ Ainda sobre o tema de jogos e narrativas, hoje o desafio foi criar um programa para jogar contra o computador. Hoje aprendi a trabalhar com aleatoriedade para criar um jogo.
+ Utilizei a **estrutura de repetição WHILE** para que o programa seja executado até o momento em que as 3 tentativas acabem, ou até a pessoa acertar o número.
+
+
