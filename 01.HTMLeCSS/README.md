@@ -7,7 +7,7 @@ Durante os 7 Days de HTML e CSS, irei praticar a essência do Front-end. É a op
 
 Escopo do projeto: uma empresa de TI quer desenvolver uma página destinada a novas contratações, de acordo com o briefing abaixo:
 
-![LINK DO PROJETO ORIGINAL NO FIGMA:](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1)
+[LINK DO PROJETO ORIGINAL NO FIGMA:](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1)
 
 ### Day 1: :star:
 Desenvolver o **cabeçalho da aplicação**, chamado normalmente de Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito, como na imagem abaixo:
@@ -42,9 +42,15 @@ Dando continuidade, acabei de desenvolver a parte talvez mais importante do proj
 
 
 ### Day 6: :star:
-No desafio de hoje, você criei a seção de Depoimentos.
+No desafio de hoje, criei a **seção de Depoimentos**.
 Essa seção contém um pequeno texto, um título, uma imagem de uma colaboradora (imagem exportada pelo Figma), além de seu nome e cargo dentro da empresa.
 
 ![img](/01.HTMLeCSS/img/depoimentos.png)
 
+
+### Day 7: :star: 
+E por fim acabei de desenvolver a última seção do projeto da página: **o rodapé**.
+Nessa seção criei um título, um pequeno texto, um formulário com um campo de entrada para o e-mail e um botão. Além disso, também há um texto de copyright logo abaixo.
+
+![img](/01.HTMLeCSS/img/rodape.png)
 
